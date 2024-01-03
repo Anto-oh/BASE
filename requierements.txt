@@ -20,7 +20,7 @@ Ahora, una vez que se haya instalado las dependencias, se puede utilizar el cód
    ```
 
    - `my_etl.py`: Contiene el código que proporcionado.
-   - `processed/`: Carpeta donde se guardarán los datos procesados.
+   - `processed/`: Carpeta donde se guardarán los datos procesados, no es necesario tenerla creada, ya que de no existir, se crea una automáticamente.
    - `raw/`: Carpeta que contiene el datalake.
 
 
